@@ -253,3 +253,7 @@ body.page-template-page-fullsingle-me h1 {
   -webkit-transition: 0.1s;
   transition: 0.1s;
 }
+h1{ 
+  color: aqua;
+
+}
