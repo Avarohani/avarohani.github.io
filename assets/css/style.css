@@ -103,7 +103,7 @@ body.page-template-page-fullsingle-me {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 1) 100%
     ),
-    url('../../images/ava.jpeg');
+    url('../../images/amy.jpg');
 
   background-position: center center;
   background-size: cover;
@@ -254,10 +254,10 @@ body.page-template-page-fullsingle-me h1 {
   transition: 0.1s;
 }
 h1{ 
-  color: silver;
+  color:white;
 
 }
 p{
   color:white;
-  background-color: plum;
+  background-color: rgba(199, 192, 201, 0.473);
 }
